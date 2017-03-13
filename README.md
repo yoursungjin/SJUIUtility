@@ -1,10 +1,12 @@
 # SJUIUtility for Unity3D
 UI Utility for seamlessly concatenated transition in Unity3D <br>
+<br>
 Click the image below to play the demo video.<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aevJOaQ7XhM/0.jpg)](https://youtu.be/aevJOaQ7XhM)
 
 ## Background
-It is for when you want GUI groups to transition in a seamlessly concatenated way.
+It is for when you want GUI groups to transition in a seamlessly concatenated way.<br>
+![image](ScreenCapture/UI%20hierarchy.png)
 
 ## How to use
 ```
