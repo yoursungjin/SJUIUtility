@@ -20,5 +20,4 @@ SJUIUtility.ShowUI (this, groupA, false, 0, .5f, delegate() {
 ```
 
 ## Author
-Sungjin Lee<br> 
-sungjinlee0417@gmail.com
+Sungjin Lee
