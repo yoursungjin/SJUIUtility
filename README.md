@@ -1,5 +1,5 @@
 # SJUIUtility for Unity3D
-For concatenating UI transitions seamlessly in Unity3D.<br>
+For concatenating UI transitions in Unity3D.<br>
 <br>
 Click the image below to play the demo video.<br>
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aevJOaQ7XhM/0.jpg)](https://youtu.be/aevJOaQ7XhM)
